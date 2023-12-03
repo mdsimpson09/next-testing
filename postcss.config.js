@@ -4,3 +4,4 @@ module.exports = {
     autoprefixer: {},
   },
 }
+DATABASE_URL = 'postgres://Marli@localhost:5432/gamer_date'
